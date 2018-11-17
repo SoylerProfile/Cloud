@@ -1,0 +1,16 @@
+body{
+	text-align: center;
+	background-image: url(../images/sky.jpg);
+}
+#content{
+	width: 600px;
+    height: 690px;
+    border: 1px solid #D358F7;
+    padding: 30px 40px;
+    margin: 20px auto;
+	background-color: antiquewhite;
+	overflow: auto;
+}
+p{
+	margin-top: 15px;
+}
